@@ -1,47 +1,46 @@
-require('dotenv').config();
 const axios = require('axios');
+require('dotenv').config();
 
-// Função para obter novo access token usando o refresh token
-async function getAccessToken() {
-  const response = await axios.post('https://accounts.spotify.com/api/token', new URLSearchParams({
-    grant_type: 'refresh_token',
-    refresh_token: process.env.SPOTIFY_REFRESH_TOKEN,
-    client_id: process.env.SPOTIFY_CLIENT_ID,
-    client_secret: process.env.SPOTIFY_CLIENT_SECRET,
-  }), {
+const clientId = process.env.SPOTIFY_CLIENT_ID;
+const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
+const refreshToken = process.env.SPOTIFY_REFRESH_TOKEN;
+
+const getAccessToken = async () => {
+  const response = await axios.post('https://accounts.spotify.com/api/token', null, {
+    params: {
+      grant_type: 'refresh_token',
+      refresh_token: refreshToken,
+      client_id: clientId,
+      client_secret: clientSecret,
+    },
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
   });
+
   return response.data.access_token;
-}
+};
 
-// Função para obter o status da música atual
-async function getCurrentlyPlaying(accessToken) {
-  const response = await axios.get('https://api.spotify.com/v1/me/player/currently-playing', {
-    headers: {
-      'Authorization': `Bearer ${accessToken}`,
-    },
-  });
-  return response.data;
-}
-
-// Função principal
-(async () => {
+const updateNowPlaying = async () => {
   try {
     const accessToken = await getAccessToken();
-    const currentlyPlaying = await getCurrentlyPlaying(accessToken);
+    const nowPlayingResponse = await axios.get('https://api.spotify.com/v1/me/player/currently-playing', {
+      headers: {
+        Authorization: `Bearer ${accessToken}`,
+      },
+    });
 
-    if (currentlyPlaying && currentlyPlaying.is_playing) {
-      const song = currentlyPlaying.item.name;
-      const artist = currentlyPlaying.item.artists.map(artist => artist.name).join(', ');
-
-      console.log(`Currently playing: ${song} by ${artist}`);
-      // Atualize seu perfil do GitHub aqui, se necessário.
+    if (nowPlayingResponse.status === 200 && nowPlayingResponse.data) {
+      const nowPlaying = nowPlayingResponse.data.item;
+      console.log(`Now playing: ${nowPlaying.name} by ${nowPlaying.artists.map(artist => artist.name).join(', ')}`);
+      // Atualize seu perfil com a informação da música atual
+      // Aqui você pode colocar o código para atualizar seu perfil
     } else {
-      console.log('Nothing is playing right now.');
+      console.log('No song is currently playing.');
     }
   } catch (error) {
-    console.error('Error updating Spotify status:', error);
+    console.error('Error updating now playing:', error);
   }
-})();
+};
+
+updateNowPlaying();
