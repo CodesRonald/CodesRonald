@@ -3,7 +3,7 @@
 
 Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software. Ingressei no Curso no 🎓•Módulo 51/2024👨‍💻🎇✨
 
-- 📚 Atualmente : Estou aprendendo Análise e Projeto Orientado a Objetos,Mentalidade Criativa e Empreendedora e começando a Estudar Linguagens para fazer uns projetos aqui
+- 📚 Atualmente : Estou aprendendo Análise e Projeto Orientado a Objetos,Mentalidade Criativa e Empreendedora e começando a Estudar Linguagens para fazer uns projetos aqui.
 - ⚡ Curiosidade: Gosto bastante de Tecnologia e de programação e almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador. (Em breve tentarei começar a fazer e colocar umns Projetos aqui.)
 
  
