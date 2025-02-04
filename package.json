@@ -1,0 +1,14 @@
+{
+  "name": "spotify-github-profile",
+  "version": "1.0.0",
+  "description": "Update your GitHub profile with your Spotify now playing status",
+  "main": "index.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
