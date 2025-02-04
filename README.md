@@ -1,7 +1,7 @@
 ⚡❄Hello World!❄⚡
 
 
-Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software na UniCesumar. 
+Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software na UniCesumar.<br>
 Ingressei no Curso no 🎓•Módulo 51/2024👨‍💻🎇✨
 
 - 📚 Atualmente : Estou aprendendo Análise e Projeto Orientado a Objetos,Mentalidade Criativa e Empreendedora e começando a Estudar Linguagens para fazer uns projetos aqui.
