@@ -16,7 +16,7 @@ Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software na U
 
 <div style="display: flex; gap: 20px;">
 <div align="left" style="display: flex; justify-content: flex-end;" style="display: inline_block"><br>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&redirect=true" style="position: relative; top: 25px; margin-left: 25px;"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile"></a>
+   <a href="https://github.com/kittinan/spotify-github-profile" style="position: relative; top: 25px; margin-left: 25px;"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile"></a>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
