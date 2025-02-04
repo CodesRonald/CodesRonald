@@ -34,7 +34,7 @@ Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software. Ing
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/CodesRonald/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
