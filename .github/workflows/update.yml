@@ -1,6 +1,9 @@
 name: Update Spotify Profile
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "*/1 * * * *"  # Atualiza a cada 1 minuto
 
