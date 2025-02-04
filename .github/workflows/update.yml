@@ -5,10 +5,10 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/1 * * * *"  # Atualiza a cada 1 minuto
+    - cron: "*/1 * * * *"  # Atualiza a cada minuto
 
 jobs:
-  build:
+  update-spotify-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +23,7 @@ jobs:
         run: npm install
 
       - name: Update Spotify Profile
-        run: npm run update
+        run: node update.js
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
