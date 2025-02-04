@@ -14,14 +14,18 @@ Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software. Ing
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+<div style="display: flex; gap: 20px;">
 <div align="left" style="display: flex; justify-content: flex-end;" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&redirect=true" style="position: relative; top: 25px; margin-left: 25px;"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile"></a>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ </div>
+
 </div>
   
   ##
