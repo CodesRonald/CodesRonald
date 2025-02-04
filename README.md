@@ -30,7 +30,7 @@ Me chamo Ronald, sou de Guaxupé/MG e estou cursando Engenharia de Software. Ing
   <a href = "mailto:ronald.official.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronald-verola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ronald__.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/CodesRonald"><img src="https://komarev.com/ghpvc/?username=CodesRonald&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" style="width: 15%; height: 15%;"></a>
+  <a href="https://github.com/CodesRonald"><img src="https://komarev.com/ghpvc/?username=CodesRonald&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" style="width: 18%; height: 18%;"></a>
 
 </div>
 
