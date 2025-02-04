@@ -2,7 +2,7 @@ name: Update Spotify Profile
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Atualiza a cada 30 minutos
+    - cron: "*/1 * * * *"  # Atualiza a cada 1 minuto
 
 jobs:
   build:
