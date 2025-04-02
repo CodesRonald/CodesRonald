@@ -47,6 +47,4 @@ Ingressei no Curso no 🎓•Módulo 51/2024👨‍💻🎇✨.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 </div>
