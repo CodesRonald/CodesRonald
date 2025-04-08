@@ -12,8 +12,17 @@ Ingressei no Curso no 🎓•Módulo 51/2024👨‍💻🎇✨.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br"
+    media="(prefers-color-scheme: light)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&rank_icon=github&card_width=400&line_height=20&langs_count=5&locale=pt-br" />
+</picture>
 
 <div style="display: flex; gap: 20px;">
 <div align="left" style="display: flex; justify-content: flex-end;" style="display: inline_block"><br>
