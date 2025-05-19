@@ -26,7 +26,7 @@
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile" style="width:500px;max-width:100%;height:auto;">
       </td>
       <td style="text-align: center; padding: 10px; min-width: 240px;">
-        <img src="https://i.pinimg.com/originals/78/4f/f0/784ff0c8ff33dd0a787f90e1ebabc807.gif" alt="Animation" style="width:240px;height:135px;max-width:100%;">
+        <img src="https://c.tenor.com/6jkqc2Ay4dMAAAAd/tenor.gif" alt="Animation" style="width:240px;height:135px;max-width:100%;">
       </td>
     </tr>
   </table>
