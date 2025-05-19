@@ -40,13 +40,13 @@
  <tr>
   <td>
 <div> 
-  <a href = "mailto:ronald.official.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ronald.official.contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 </td>
  <td>
-  <a href="https://www.linkedin.com/in/ronald-verola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ronald-verola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </td>
  <td>
- <a href="https://www.instagram.com/ronald__.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/ronald__.oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
  </td>
  <td>
   <a href="https://github.com/CodesRonald"><img src="https://komarev.com/ghpvc/?username=CodesRonald&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"></a>
