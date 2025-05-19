@@ -10,10 +10,14 @@
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60">
+     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60">
+    </td>
+     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" height="60">
-          <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile" width="500" border-radius="10px">
+     </td>
+   <td>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile" width="500" >
     </td>
    <td>
   <img align="auto" src="https://i.pinimg.com/originals/78/4f/f0/784ff0c8ff33dd0a787f90e1ebabc807.gif" height="135" width="240"</td>
