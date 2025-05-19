@@ -24,6 +24,15 @@
   <a href="https://github.com/CodesRonald"><img src="https://komarev.com/ghpvc/?username=CodesRonald&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" style="width: 18%; height: 18%;"></a>
 </div>
 
+<div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodesRonald/CodesRonald/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 
 
