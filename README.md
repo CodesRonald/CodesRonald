@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-CSS" height="60"width="100",margin="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="62"width="60" margin="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><div style="display: flex; gap: 20px;">
 <div align="left" style="display: flex; justify-content: flex-end;" style="display: inline_block"><br>
-<a href="https://github.com/kittinan/spotify-github-profile" style="position: absolute; top: 24px; margin-botoom;left: 146vh; top: 52vh"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile"width="500"></a></div>
+<a href="https://github.com/kittinan/spotify-github-profile" ><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify Profile"width="500" aling=auto height="60" width="60"></a></div>
  </div>
 </div>
  
