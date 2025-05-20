@@ -43,8 +43,8 @@
         y<br>
       </em></strong>
     </td>
-    <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="width:255px;max-width:100%;height:103px;"></td>
-    <td><img src="https://c.tenor.com/6jkqc2Ay4dMAAAAd/tenor.gif" alt="Animation" width="160" height="160" max-width="100%" style="width:160px;max-width:100%;height:160px;"></td>
+    <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="width:285px;max-width:100%;height:103px;"></td>
+    <td><img src="https://c.tenor.com/6jkqc2Ay4dMAAAAd/tenor.gif" alt="Animation" width="200" height="270" max-width="100%" style="width:200px;max-width:100%;height:270px;"></td>
   </tr>
 </table>
 
