@@ -23,10 +23,10 @@
 </tr>
 <tr>
 <td><Strong>Badges</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="43" height="60" style="width:43px;height:60px;"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="43" height="60" style="width:43px;height:60px;"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="43" height="60" style="width:43px;height:55px;"></td>
-<td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="width:253px;max-width:100%;height:103px;"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="60" style="width:45px;height:60px;"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="60" style="width:45px;height:60px;"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="60" style="width:45px;height:55px;"></td>
+<td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312awv6tzmc4drcauq7vrzhvxbfu&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" style="width:255px;max-width:100%;height:103px;"></td>
 </tr>
 </table>
 <td><img src="https://c.tenor.com/6jkqc2Ay4dMAAAAd/tenor.gif" alt="Animation" width="160" height="160" max-width="100%"</td>
