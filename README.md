@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header&text=Ronald+de+Souza+Verola&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1010&lines=⚡❄Hello,+World!❄⚡;"></a>
 
-#
-<em><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1000&lines=👨‍💻+Estudante+de+Engenharia+de+Software;"></a></em>
-#
+# ⚡❄Hello World!❄⚡
+
+## 👨‍💻 Estudante de Engenharia de Software
 ### ⚡ Sobre mim: 
-Gosto bastante de Tecnologia e de programação e almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador. (Em breve tentarei começar a fazer e colocar algums Projetos aqui.)
+#### Gosto bastante de Tecnologia e sou iniciante no mundo da programação. Almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador.
 
 ##
 
