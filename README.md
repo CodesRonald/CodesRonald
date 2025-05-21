@@ -1,6 +1,15 @@
-# ⚡❄Hello World!❄⚡
-## Me chamo Ronald, e estou cursando Engenharia de Software na UniCesumar.<br>Ingressei no Curso no 🎓•Módulo 51/2024👨‍💻🎇✨.
-#### ⚡ Curiosidades: Gosto bastante de Tecnologia e de programação e almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador. (Em breve tentarei começar a fazer e colocar algums Projetos aqui.)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header&text=Ronald+de+Souza+Verola&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1010&lines=⚡❄Hello,+World!❄⚡;"></a>
+
+#
+<em><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1000&lines=👨‍💻+Estudante+de+Engenharia+de+Software;"></a></em>
+#
+### ⚡ Sobre mim: 
+Gosto bastante de Tecnologia e de programação e almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador. (Em breve tentarei começar a fazer e colocar algums Projetos aqui.)
+
+##
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -121,6 +130,10 @@
     </td>
   </tr>
 </table>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=footer"/>
+
+
 
 
 
