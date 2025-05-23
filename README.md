@@ -3,11 +3,16 @@
 
 # ⚡❄Hello World!❄⚡
 
-## 👨‍💻 Estudante de Engenharia de Software
-### ⚡ Sobre mim: 
-#### Gosto bastante de Tecnologia e sou iniciante no mundo da programação. Almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador.
-
-##
+<table>
+<tr>
+<td align="center">👨‍💻</td>
+  <td align="center"><strong>Estudante de Engenharia de Software</strong></td>
+</tr>
+  <tr>
+  <td width="130px">⚡Sobre mim:</td>
+    <td >Gosto bastante de Tecnologia e sou iniciante no mundo da programação.Almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador</td>
+  </tr>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_&rank_icon=github&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
