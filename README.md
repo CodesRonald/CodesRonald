@@ -17,7 +17,7 @@
 </tr>
   <tr>
   <td width="135px"><em><strong>⚡Sobre mim:</strong></em></td>
-    <td> <em> Gosto bastante de Tecnologia e sou iniciante no mundo da programação.Almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador </em></td>
+    <td> <em> Gosto bastante de Tecnologia e sou iniciante no mundo da programação. Almejo aprender continuamente sobre o mercado de software e um dia chegar em um nivel onde eu possa compartilhar experiências, colaborar em projetos e me tornar um bom Programador </em></td>
   </tr>
 </table>
 
