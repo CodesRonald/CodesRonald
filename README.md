@@ -3,6 +3,10 @@
 # <em>⚡❄Hello World!❄⚡</em>
 
 <table>
+  <tr>
+    <td >⚙️<em><strong>Github-Status</strong></em></td>
+    <td >💻<em><strong>Top-Langs</strong></em></td>
+  </tr>
 <tr>
 <td>
   
