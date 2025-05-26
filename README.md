@@ -1,14 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=180&section=header&text=Ronald+de+Souza+Verola&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-
 # <em>⚡❄Hello World!❄⚡</em>
 
+<table>
+<tr>
+<td>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_&rank_icon=github&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) </td>
 
+<td>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&title_color=00FF00&icon_color=00FF00&rank_icon=github&card_width=374&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=github_dark_dimmed&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_&rank_icon=github&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesRonald&show_icons=true&custom_title=Ronald%20GitHub%20Estatísticas&include_all_commits=true&count_private=true&theme=vue&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&layout=compact&bg_color=00000000&title_color=00FF00&icon_color=00FF00&rank_icon=github&card_width=374&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesRonald&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact&bg_color=00000000&rank_icon=github&card_width=404&line_height=20&langs_count=5&locale=pt-br&cache_seconds=16200)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -136,8 +142,5 @@
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=150&section=footer"/>
-
-
-
 
 
