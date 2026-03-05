@@ -9,13 +9,17 @@
   </tr>
 <tr>
 <td>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github_dark" />
-
+  <picture> 
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
+  </picture>
 <td>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=tokyonight" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
+  </picture>
 </td>
 </tr>
 
@@ -25,8 +29,11 @@
     <td >ℹ️<em><strong> Github-Info</strong></em></td>
 </tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github_dark"/></td>
-  
+  <picture>    
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/></td>
+  </picture>
 </table>
 
 <table>
