@@ -12,13 +12,13 @@
   <picture> 
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" width="530" height="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" width="530" height="310"/>
   </picture>
 <td>
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" width="530" height="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" width="530" height="310"/>
   </picture>
 </td>
 </tr>
