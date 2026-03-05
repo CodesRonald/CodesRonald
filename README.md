@@ -32,7 +32,7 @@
   <picture>    
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github_dark"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/>
-  <img aling="flex-start" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github" width="1000" height="300"/></td>
+  <img aling="flex-start" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github" width="1000" height="250"/></td>
   </picture>
 </table>
 
