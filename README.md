@@ -2,23 +2,23 @@
 
 # <em>⚡❄Hello World!❄⚡</em>
 
-<table>
+<table >
   <tr>
-    <td >⚙️<em><strong>Github-Status</strong></em></td>
-    <td >💻<em><strong>Top-Langs</strong></em></td>
+    <td width=505 height=25>⚙️<em><strong>Github-Status</strong></em></td>
+    <td width=505 height=25>💻<em><strong>Top-Langs</strong></em></td>
   </tr>
 <tr>
 <td>
   <picture> 
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodesRonald&theme=github" width="530" height="300"/>
   </picture>
 <td>
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodesRonald&theme=github" width="530" height="300"/>
   </picture>
 </td>
 </tr>
@@ -26,13 +26,13 @@
 </table>
 <table>
 <tr>
-    <td >ℹ️<em><strong> Github-Info</strong></em></td>
+    <td width=1010 height=25>ℹ️<em><strong> Github-Info</strong></em></td>
 </tr>
     <td colspan="2" align="center">
   <picture>    
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github_dark"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github"/></td>
+  <img aling="flex-start" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodesRonald&theme=github" width="1000" height="300"/></td>
   </picture>
 </table>
 
